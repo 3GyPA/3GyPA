@@ -1,3 +1,5 @@
+### Info
+
 <code>🎓 Student: KPI / IP-03</code>
 <!-- <code><code>⚪ Community: Metarhia</code></code> -->
 <code>👷 Speciality: Software engineer</code><br>
