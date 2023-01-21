@@ -13,6 +13,6 @@
 
 ### Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Artic67&theme=chartreuse-dark&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Artic67&theme=tokyonight&layout=compact)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Artic67&count_private=true&hide=stars,issues&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
