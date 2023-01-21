@@ -10,3 +10,9 @@
 <code>🪙 [Rates](RATES.md)</code><br>
 <code>💬 telegram: [@artem_negrub](https://t.me/artem_negrub)</code>
 <code>📫 [sirartic67@gmail.com](mailto:sirartic67@gmail.com)</code>
+
+### Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Artic67&theme=chartreuse-dark&layout=compact)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Artic67&count_private=true&hide=stars,issues&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
