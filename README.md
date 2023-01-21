@@ -13,11 +13,11 @@
 
 ### Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Artic67&theme=vue-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://bellomia-readme-stats.vercel.app/api/top-langs/?username=Artic67&theme=vue-dark&layout=compact)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Artic67&count_private=true&hide=stars,issues&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://bellomia-readme-stats.vercel.app/api?username=Artic67&count_private=true&hide=stars,issues&theme=vue-dark)
 
 ### Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Artic67&repo=NotaryTrackProg&theme=vue-dark)](https://github.com/Artic67/NotaryTrackProg)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Artic67&repo=NGBC-game&theme=vue-dark)](https://github.com/Artic67/NGBC-game)
+[![Readme Card](https://readme-stats.jonas-bernard.dev/api/pin/?username=Artic67&repo=NotaryTrackProg&theme=vue-dark)](https://github.com/Artic67/NotaryTrackProg)
+[![Readme Card](https://readme-stats.jonas-bernard.dev/api/pin/?username=Artic67&repo=NGBC-game&theme=vue-dark)](https://github.com/Artic67/NGBC-game)
