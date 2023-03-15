@@ -4,7 +4,7 @@
 <code>🧻 [Projects](PROJECTS.md)</code>
 <code>🧑‍💻 Languages: C#, PhP</code>
 <code>🪙 [Rates](RATES.md)</code><br>
-<code>💬 telegram: [@artem_negrub](https://t.me/artem_negrub)</code>
+<code>💬 telegram: [@RiKz99](https://t.me/RiKz99)</code>
 <code>📫 [andy071004@gmail.com](mailto:andy071004@gmail.com)</code>
 
 ### Stats
